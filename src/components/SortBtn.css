@@ -1,0 +1,13 @@
+.SortBtn-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+
+.SortBtn-container button {
+  padding: 0;
+  line-height: 1;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
